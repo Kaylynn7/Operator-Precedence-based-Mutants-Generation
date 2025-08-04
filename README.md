@@ -34,6 +34,9 @@ gcc -Wall -o mutant_generator mutant_generator.c
 # Basic usage
 ./mutant_generator input.c mutants
 
+# Compile all valid mutants
+./mutants/generate_mutants.sh
+
 # Generated files will be in:
 ls mutants/
 
