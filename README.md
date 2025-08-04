@@ -25,7 +25,7 @@ A specialized tool for generating mutation test cases in C programs based on ope
 
 ```bash
 # Clone repository
-git clone https://github.com/kaylynn7/mutant-generator.git
+[git clone https://github.com/kaylynn7/mutant-generator.git](https://github.com/Kaylynn7/Operator-Precedence-based-Mutants-Generation.git)
 cd mutant-generator
 
 # Compile tool (requires GCC)
